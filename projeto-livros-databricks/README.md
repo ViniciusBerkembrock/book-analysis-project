@@ -93,6 +93,20 @@ Este projeto foi desenvolvido para fins educacionais e exploratórios. As análi
 
 ---
 
+## Autoavaliação
+
+Ao finalizar este projeto, sinto que consegui cumprir os objetivos definidos inicialmente. A proposta era construir um pipeline completo de dados dentro do ambiente Databricks, passando por todas as camadas — da ingestão à análise — e gerar insights relevantes a partir de dados literários. Esse processo foi seguido com cuidado e o projeto foi evoluindo de forma consistente até a entrega final.
+
+Durante o desenvolvimento, enfrentei alguns desafios importantes. Um dos pontos que mais exigiu atenção foi o tratamento dos dados brutos, especialmente os nomes dos autores. Eles apresentavam muitos ruídos e inconsistências, o que nos levou a revisar a lógica de limpeza várias vezes, até alcançar um padrão aceitável. Outro desafio foi lidar com visualizações mais elaboradas, como os gráficos de bolhas e os mapas de calor, que exigiram uma preparação cuidadosa dos dados e ajustes de escala e suavização para se tornarem claros e informativos.
+
+Por outro lado, foi muito satisfatório perceber como as perguntas de análise foram ganhando profundidade ao longo do projeto. Começamos com algumas hipóteses iniciais e, conforme os dados iam sendo tratados novas ideias surgiram naturalmente. A estrutura em notebooks separados e bem organizados ajudou bastante a manter o projeto compreensível e reutilizável.
+
+Como próximo passo, acredito que seria interessante enriquecer o dataset com informações complementares — como gênero literário, nacionalidade dos autores ou perfil mais detalhado dos leitores —, o que abriria espaço para novas perguntas e análises ainda mais aprofundadas. Também vejo potencial para conectar os resultados deste projeto com modelos de recomendação de livros, aproveitando os padrões identificados.
+
+De forma geral, considero que o trabalho cumpriu bem seu papel acadêmico e também representa uma boa adição ao meu portfólio pessoal, refletindo tanto domínio técnico quanto interesse genuíno pelo tema.
+
+---
+
 ## 👨‍💻 Autor
 
 **Vinícius Berkembrock Marcon**  
