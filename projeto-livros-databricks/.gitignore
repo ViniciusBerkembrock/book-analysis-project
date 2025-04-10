@@ -1,0 +1,6 @@
+*.csv
+*.png
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+outputs/graficos/*
